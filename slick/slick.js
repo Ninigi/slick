@@ -1033,7 +1033,7 @@
         _.changeSlide({
             data: {
                 message: 'index',
-                index: parseInt(slide)
+                index: parseInt(index)
             }
         }, dontAnimate);
 
